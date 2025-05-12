@@ -67,7 +67,7 @@ Total distance: 348,933.81 miles
 🛠️ Tools Used
 Power BI for data visualization and dashboard creation
 
-Excel / CSV for raw data preparation
+Excel / CSV for raw data preparation (Two table: Location Table and Trip Details Table)
 
 DAX & Power Query for data modeling and transformation
 
